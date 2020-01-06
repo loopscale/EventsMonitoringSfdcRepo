@@ -1,0 +1,6 @@
+<aura:documentation>
+	<aura:description>Documentation</aura:description>
+	<aura:example name="streamingEvent" ref="streamingEvent" label="streamingEvent">
+		streamingEvent
+	</aura:example>
+</aura:documentation>
